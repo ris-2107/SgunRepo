@@ -11,6 +11,7 @@ incremented for features.
 
 ## [Unreleased]
 
+
 ### Features
 
 - Candy Machine now supports GIF, PNG and JPEG
