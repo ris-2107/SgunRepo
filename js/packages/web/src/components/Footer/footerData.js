@@ -1,3 +1,4 @@
+console.log("Footer Called")
 export const footerConf = {
   showShopName: true,
   showEmailSubscriber: true,
